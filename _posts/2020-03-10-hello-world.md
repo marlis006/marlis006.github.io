@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Wolrd"
+title:  "Hello World"
 author: Marlis
 categories: [ Introduction ]
 image: assets/images/12.jpg

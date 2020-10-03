@@ -13,10 +13,10 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  Marlis:
     name: Marlis Stefan
     display_name: Marlis
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.jpg'
     email: marlis@thelottle.co
     web: thelottle.co
 #    twitter: https://twitter.com/wowthemesnet
